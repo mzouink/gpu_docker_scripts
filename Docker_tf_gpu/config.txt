@@ -1,0 +1,5 @@
+Using versions:
+
+- Tensorflow gpu 2.0.0
+- Cuda 10.0.0
+- Nvidia driver  410.78
